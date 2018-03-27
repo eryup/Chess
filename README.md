@@ -1,1 +1,1 @@
-# Chess
+# CMPS 12B Chess Move Simulator 
